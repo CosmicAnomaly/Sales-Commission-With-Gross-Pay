@@ -1,0 +1,12 @@
+C:\Users\Scott\Documents\Programming\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Scott\Documents\Programming\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Scott\Documents\Programming\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Scott\Documents\Programming\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Programming\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Scott\Documents\Programming\Task2\Task2\obj\Debug\Task2.pdb
+E:\02_14_16_Reformat\Documents\Programming\Task2\Task2\bin\Debug\Task2.exe.config
+E:\02_14_16_Reformat\Documents\Programming\Task2\Task2\obj\Debug\Task2.exe
+E:\02_14_16_Reformat\Documents\Programming\Task2\Task2\obj\Debug\Task2.pdb
+E:\02_14_16_Reformat\Documents\Programming\Task2\Task2\bin\Debug\Task2.exe
+E:\02_14_16_Reformat\Documents\Programming\Task2\Task2\bin\Debug\Task2.pdb
+E:\02_14_16_Reformat\Documents\Programming\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
